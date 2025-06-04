@@ -1,5 +1,5 @@
 #### 🚰 Container With Most Water — Developed in Python
-<br>
+
 #### 🛣 Roadmap :
 <img src="https://github.com/Ho3einTahan/Container-Most-Water/blob/main/images/container.png">
 
