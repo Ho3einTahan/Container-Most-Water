@@ -6,9 +6,13 @@ def max_area(height):
    
    while left<right:
       
+      # height
       h=min(height[left],height[right])
+      
+      # width
       w=right-left
       
+      # area
       current=h*w
       
       max_water=max(max_water,current)
@@ -17,6 +21,7 @@ def max_area(height):
          left+=1
       else:
          right-=1
+         
    return max_water
       
 
